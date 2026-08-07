@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 264" width="490" height="264">
+  <style>
+    .row { opacity: 0; animation: fadeIn 0.5s ease-out forwards; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="263" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <line x1="0" y1="46" x2="490" y2="46" stroke="#30363d"/>
+  <circle cx="24" cy="23" r="4.5" fill="#6e7681" opacity="0.55"/><circle cx="40" cy="23" r="4.5" fill="#6e7681" opacity="0.55"/><circle cx="56" cy="23" r="4.5" fill="#6e7681" opacity="0.55"/>
+  <g class="row" style="animation-delay:0.15s">
+<text x="24" y="66" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#58a6ff">role</text>
+<text x="116" y="66" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">Product Support Engineer, payments</text>
+<text x="116" y="83" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">infrastructure</text>
+</g>
+<g class="row" style="animation-delay:0.31s">
+<text x="24" y="110" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#58a6ff">domain</text>
+<text x="116" y="110" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">Card issuing, ISO 8583, Metro 2, disputes,</text>
+<text x="116" y="127" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">PCI reporting</text>
+</g>
+<g class="row" style="animation-delay:0.47s">
+<text x="24" y="154" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#58a6ff">stack</text>
+<text x="116" y="154" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">Python, SQL, REST APIs, ETL, Linux,</text>
+<text x="116" y="171" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">Cloudflare Workers</text>
+</g>
+<g class="row" style="animation-delay:0.63s">
+<text x="24" y="198" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#58a6ff">now</text>
+<text x="116" y="198" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">Building payments + applied-AI tooling in</text>
+<text x="116" y="215" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">public</text>
+</g>
+<g class="row" style="animation-delay:0.79s">
+<text x="24" y="242" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#58a6ff">writing</text>
+<text x="116" y="242" font-family="ui-monospace,'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#c9d1d9">medium.com/@TechByQadir</text>
+</g>
+</svg>
