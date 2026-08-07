@@ -27,7 +27,7 @@ ROWS = [
     ("role", "Product Support Engineer, payments infrastructure"),
     ("domain", "Card issuing, ISO 8583, Metro 2, disputes, PCI reporting"),
     ("stack", "Python, SQL, REST APIs, ETL, Linux, Cloudflare Workers"),
-    ("now", "Building payments + applied-AI tooling in public"),
+    ("now", "Payments infrastructure, moving into applied AI"),
     ("writing", "medium.com/@TechByQadir"),
 ]
 
